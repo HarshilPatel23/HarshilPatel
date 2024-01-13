@@ -6,5 +6,5 @@ Skills: JAVA / Python / React.js / Spring Boot / Angular / JS / HTML5 / SCSS
 
 - 🔭 I’m currently doing my intership at "Single Parent Life" as a Fullstack Developer. 
 - 🌱 I’m currently learning Everything 
-- 📫 How to reach me: harshilpatel18@gmail.com 
+- 📫 How to reach me: harshilpatelb18@gmail.com 
 - ⚡ Fun fact: I love to play cricket and volleyball.  
