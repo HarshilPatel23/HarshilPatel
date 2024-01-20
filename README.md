@@ -9,8 +9,8 @@ Skills: JAVA / Python / React.js / Spring Boot / Angular / JS / HTML5 / SCSS
 - 🌱 I am presently acquiring proficiency in React Native and honing my skills in Spring Boot.
 - 📫 How to reach me: harshilpatelb18@gmail.com or [LinkedIn](http://www.linkedin.com/in/harshil-patel2).
 - ⚡ Fun fact: I love to play cricket and volleyball.
-- 
- - 🚀 **Check out my project!**
+ 
+- 🚀 **Check out my project!**
 
-- [Pocket Tracker]([link1](https://github.com/HarshilPatel23/PocketTracker)) 🌐
+- [Pocket Tracker](https://github.com/HarshilPatel23/PocketTracker) 🌐
 
